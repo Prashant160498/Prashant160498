@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Arya</h1>
-<h3 align="center">I am a Master's student in Data Sciences & Business Analytics (Finance) at ESSEC Business School & CentraleSupélec.</h3>
+<h3 align="center">I am a Master's student in Data Sciences & Business Analytics at ESSEC Business School & CentraleSupélec.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant160498&label=Profile%20views&color=0e75b6&style=flat" alt="prashant160498" /> </p>
 
