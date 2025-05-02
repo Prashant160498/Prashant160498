@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant160498&label=Profile%20views&color=0e75b6&style=flat" alt="prashant160498" /> </p>
 
-- 🔭 I’m currently working on **Instagram Post Classification**
+- 🔭 I’m currently working on **Instagram Post Classification** for the company **Luxurynsight**, enhancing their product LYWatch
 
 - 🌱 I’m currently learning **MLOps and NLP with transformers**
 
